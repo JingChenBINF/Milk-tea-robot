@@ -1,0 +1,8 @@
+zeros:
+  joint1: 0.5235
+  joint2: 0.785
+link_lengths:
+  l1: 3.0
+  l2: 2.0
+source_list:
+  ["pubJointStates"]
